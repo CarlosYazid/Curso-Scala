@@ -1,6 +1,6 @@
 //La mayoria de las expresiones retornan algo, una definicion de no retornar nada es declarando retorno unit
 
-def x = (x) //Esta forma de definir solo admite una sentencia
+def x = (3) //Esta forma de definir solo admite una sentencia
 
 def x = 3
 
